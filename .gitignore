@@ -1,6 +1,4 @@
 # Secrets, never commit API keys
-.env
-.env.*
 !.env.example
 
 # Dependencies
@@ -24,3 +22,4 @@ ponytail-*.gif
 # agentic benchmark workspaces (agent output, kept locally for inspection)
 benchmarks/agentic/runs/
 benchmarks/agentic/fixtures/
+config.bat
